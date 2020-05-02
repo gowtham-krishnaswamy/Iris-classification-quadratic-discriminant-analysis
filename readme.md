@@ -1,0 +1,1 @@
+IRIS data is classied using Quadratic Discriminant Analysis using python.
